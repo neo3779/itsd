@@ -1,0 +1,5 @@
+Alex  100
+Dainie  100
+Simon  100
+null  0
+Bradley  0
